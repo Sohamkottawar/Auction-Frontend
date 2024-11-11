@@ -12,6 +12,7 @@ module.exports = {
     extend: {
       backgroundImage: {
         bannerImg: "url('/images/background.png')", // Add your custom background image
+        bannerImg2: "url('/images/background1.jpg')",
       },
       colors: {
         background: "var(--background)",
