@@ -16,7 +16,7 @@ function Login() {
     return (
         <div className="flex w-full h-screen">
             <div className="w-1/2" style={{
-                backgroundImage: "url('/bg_login.jpg')",
+                backgroundImage: "url('/background1.jpg')",
                 backgroundSize: 'cover',
                 backgroundPosition: 'right'
             }}>
